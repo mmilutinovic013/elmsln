@@ -35,7 +35,7 @@
     "ts-helpers": "^1.1.1",
     "typescript": "^2.0.10",
     "wysiwyg.js": "^1.0.0",
-    "zone.js": "^0.6.23"
+    "zone.js": "^0.12.0"
   },
   "devDependencies": {
     "@types/jasmine": "^2.2.30",
