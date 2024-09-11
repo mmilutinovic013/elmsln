@@ -20,7 +20,7 @@
     "@lrnwebcomponents/haxor-slevin": "^2.5.0",
     "@lrnwebcomponents/learn-two-theme": "^2.5.0",
     "@lrnwebcomponents/outline-player": "^2.5.0",
-    "@lrnwebcomponents/simple-blog": "^2.5.0",
+    "@lrnwebcomponents/simple-blog": "^7.0.16",
     "@webcomponents/webcomponentsjs": "^2.4.2",
     "helmet": "3.21.2",
     "lunr": "2.3.6",
